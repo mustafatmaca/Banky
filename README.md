@@ -1,4 +1,5 @@
 # Banky
+UI based credit card app developed with Flutter.
 
 ## SplashScreen
 ![1](https://user-images.githubusercontent.com/58891564/193056056-abe160f6-070a-41e6-9d13-80ee38b52d26.png)
